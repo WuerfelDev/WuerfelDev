@@ -1,0 +1,14 @@
+[CONFIG]
+
+# Headline
+title = Hi!
+
+# An introduction at the start of the Readme
+intro = I moved to [GitLab](https://gitlab.com/WuerfelDev) therefore all my repos are there now. Here's a list:
+
+# Your GitLab username
+username = WuerfelDev
+
+# Outro
+outro = *If you've been looking to learn more about me go to [wuerfeldev.de](https://wuerfeldev.de).*
+ Have a nice day :)
