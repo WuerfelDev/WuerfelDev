@@ -3,9 +3,10 @@ I moved to [GitLab](https://gitlab.com/WuerfelDev) therefore all my repos are th
 
 || Project | Description
 ---|---|---
+<a href='https://gitlab.com/WuerfelDev/neat-cargame'><img src='https://assets.gitlab-static.net/uploads/-/system/project/avatar/25842643/car_first.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/neat-cargame'>neat-cargame</a>|cars teach themself to drive
+<a href='https://gitlab.com/WuerfelDev/dotfiles'><img src='https://assets.gitlab-static.net/uploads/-/system/project/avatar/18529898/logo.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/dotfiles'>dotfiles</a>|Installer & dotfiles
 <a href='https://gitlab.com/WuerfelDev/advent-of-code'><img src='https://assets.gitlab-static.net/uploads/-/system/project/avatar/22814725/favicon.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/advent-of-code'>Advent of Code</a>|My solutions for https://adventofcode.com
 <a href='https://gitlab.com/WuerfelDev/OnePlus-Sidebar-Script'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/OnePlus-Sidebar-Script'>OnePlus-Sidebar-Script</a>|Bacon. 
-<a href='https://gitlab.com/WuerfelDev/dotfiles'><img src='https://assets.gitlab-static.net/uploads/-/system/project/avatar/18529898/logo.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/dotfiles'>dotfiles</a>|Installer & dotfiles
 <a href='https://gitlab.com/WuerfelDev/8pen-archive'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/8pen-archive'>8pen-archive</a>|Archiving everything related to 8pen
 <a href='https://gitlab.com/WuerfelDev/Key8oard'><img src='https://assets.gitlab-static.net/uploads/-/system/project/avatar/14082469/photo_2020-09-09_00-16-26.jpg' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/Key8oard'>Key8oard</a>|Remake of the 8pen keyboard
 <a href='https://gitlab.com/WuerfelDev/unu'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/unu'>Unu</a>|Online multiplayer webgame similar to the card game Uno
