@@ -2,6 +2,5 @@
 
 python3 generate.py
 
-git add -A
-git commit -m "updated repo"
+git commit -am "list updated"
 git push
