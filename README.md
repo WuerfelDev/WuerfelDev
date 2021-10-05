@@ -3,7 +3,7 @@ I moved to [GitLab](https://gitlab.com/WuerfelDev) therefore all my repos are th
 
 || Project | Description
 ---|---|---
-<a href='https://gitlab.com/WuerfelDev/JetBrains-Mono-psf'><img src='https://gitlab.com/uploads/-/system/project/avatar/30174239/screenshot_20211005_02-30-04.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/JetBrains-Mono-psf'>JetBrains Mono psf</a>|
+<a href='https://gitlab.com/WuerfelDev/JetBrains-Mono-psf'><img src='https://gitlab.com/uploads/-/system/project/avatar/30174239/screenshot_20211005_02-30-04.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/JetBrains-Mono-psf'>JetBrains Mono psf</a>|JetBrains Mono font as psf. For your TTY terminal.
 <a href='https://gitlab.com/WuerfelDev/dotfiles'><img src='https://gitlab.com/uploads/-/system/project/avatar/18529898/logo.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/dotfiles'>dotfiles</a>|Installer & dotfiles
 <a href='https://gitlab.com/WuerfelDev/adventure-planner'><img src='https://gitlab.com/uploads/-/system/project/avatar/28348274/adventure-planner-128.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/adventure-planner'>Adventure Planner</a>|Chrome extension to export a route to different websites for easier planning
 <a href='https://gitlab.com/WuerfelDev/quick-deepl'><img src='https://gitlab.com/uploads/-/system/project/avatar/27490615/quick-deepl128.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/quick-deepl'>Quick DeepL</a>|Browser extension for a fast access to DeepL translations
