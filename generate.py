@@ -3,9 +3,10 @@ import json
 import urllib.request
 
 conf = configparser.ConfigParser()
-conf.read("config.txt")
+conf.read("config")
 config = conf["CONFIG"]
 
+# Api reference: https://docs.gitlab.com/ee/api/projects.html#list-user-projects
 url = "https://gitlab.com/api/v4/users/" + config["username"] + "/projects?order_by=last_activity_at&per_page=100"
 pixel = "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
 
