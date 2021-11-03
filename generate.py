@@ -6,7 +6,7 @@ conf = configparser.ConfigParser()
 conf.read("config.txt")
 config = conf["CONFIG"]
 
-url = "https://gitlab.com/api/v4/users/" + config["username"] + "/projects?order_by=last_activity_at"
+url = "https://gitlab.com/api/v4/users/" + config["username"] + "/projects?order_by=last_activity_at&per_page=100"
 pixel = "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
 
 with urllib.request.urlopen(url) as r:
