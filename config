@@ -4,11 +4,10 @@
 title = Hi!
 
 # An introduction at the start of the Readme
-intro = I moved to [GitLab](https://gitlab.com/WuerfelDev) therefore all my repos are there now. Here's a list:
+intro = I am using GitHub for contributing to other repos but my personal projects are on my [GitLab](https://gitlab.com/WuerfelDev). Here's list of them:
 
 # Your GitLab username
 username = WuerfelDev
 
 # Outro
-outro = *If you've been looking to learn more about me go to [wuerfeldev.de](https://wuerfeldev.de).*
- Have a nice day :)
+outro = *Also check out my website [wuerfeldev.de](https://wuerfeldev.de).*
