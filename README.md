@@ -1,8 +1,9 @@
 # Hi!
-I moved to [GitLab](https://gitlab.com/WuerfelDev) therefore all my repos are there now. Here's a list:
+I am using GitHub for contributing to other repos but my personal projects are on my [GitLab](https://gitlab.com/WuerfelDev). Here's list of them:
 
 || Project | Description
 ---|---|---
+<a href='https://gitlab.com/WuerfelDev/12ft-chrome'><img src='https://gitlab.com/uploads/-/system/project/avatar/34358203/12ft-chrome.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/12ft-chrome'>12ft-chrome</a>|Chrome extension for (automatic) redirects to 12ft.io
 <a href='https://gitlab.com/WuerfelDev/translatethisvideo'><img src='https://gitlab.com/uploads/-/system/project/avatar/34141297/streamline-icon-video-bubble-share_48x48.PNG' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/translatethisvideo'>TranslateThisVideo</a>|Telegram bot to translate spoken text of videos to English using vosk and DeepL
 <a href='https://gitlab.com/WuerfelDev/dotfiles'><img src='https://gitlab.com/uploads/-/system/project/avatar/18529898/logo.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/dotfiles'>dotfiles</a>|Installer & dotfiles
 <a href='https://gitlab.com/WuerfelDev/adventure-planner'><img src='https://gitlab.com/uploads/-/system/project/avatar/28348274/adventure-planner-128.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/adventure-planner'>Adventure Planner</a>|Chrome extension to export a route to different websites for easier planning
@@ -28,5 +29,4 @@ I moved to [GitLab](https://gitlab.com/WuerfelDev) therefore all my repos are th
 <a href='https://gitlab.com/WuerfelDev/iserv-email-preview'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/iserv-email-preview'>iserv-email-preview</a>|
 <a href='https://gitlab.com/WuerfelDev/LIFT'><img src='https://gitlab.com/uploads/-/system/project/avatar/6715495/LIFT.gif' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/LIFT'>LIFT</a>|LIFT: watchface for pebble watches
 
-<br>*If you've been looking to learn more about me go to [wuerfeldev.de](https://wuerfeldev.de).*
-Have a nice day :)
+<br>*Also check out my website [wuerfeldev.de](https://wuerfeldev.de).*
