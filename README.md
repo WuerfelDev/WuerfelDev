@@ -4,6 +4,7 @@ I am using GitHub for contributing to other repos but my personal projects are o
 || Project | Description
 ---|---|---
 <a href='https://gitlab.com/WuerfelDev/dotfiles'><img src='https://gitlab.com/uploads/-/system/project/avatar/18529898/logo.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/dotfiles'>dotfiles</a>|Installer & dotfiles
+<a href='https://gitlab.com/WuerfelDev/hue-wallpapers'><img src='https://gitlab.com/uploads/-/system/project/avatar/43290562/Screenshot_2023-02-07_at_13.35.27.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/hue-wallpapers'>hue-wallpapers</a>|Create a hue rotation on an image (and set them as wallpaper on macOS)
 <a href='https://gitlab.com/WuerfelDev/advent-of-code'><img src='https://gitlab.com/uploads/-/system/project/avatar/22814725/favicon.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/advent-of-code'>Advent of Code</a>|My solutions for https://adventofcode.com
 <a href='https://gitlab.com/WuerfelDev/12ft-chrome'><img src='https://gitlab.com/uploads/-/system/project/avatar/34358203/12ft-chrome.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/12ft-chrome'>12ft-chrome</a>|Chrome extension for (automatic) redirects to 12ft.io
 <a href='https://gitlab.com/WuerfelDev/translatethisvideo'><img src='https://gitlab.com/uploads/-/system/project/avatar/34141297/streamline-icon-video-bubble-share_48x48.PNG' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/translatethisvideo'>TranslateThisVideo</a>|Telegram bot to translate spoken text of videos to English using vosk and DeepL
