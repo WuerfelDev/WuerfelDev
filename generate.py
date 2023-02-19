@@ -1,9 +1,10 @@
+#!/usr/bin/env python3
 import configparser
 import json
 import urllib.request
 
 conf = configparser.ConfigParser()
-conf.read("config")
+conf.read("config.ini")
 config = conf["CONFIG"]
 
 # Api reference: https://docs.gitlab.com/ee/api/projects.html#list-user-projects
