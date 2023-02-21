@@ -2,7 +2,7 @@
 
 commitmessage="list updated"
 
-pushd (dirname $0)
+pushd $(dirname $0)
 
 python3 generate.py
 
