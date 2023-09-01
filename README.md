@@ -3,7 +3,7 @@ I am using GitHub for contributing to other repos but my personal projects are o
 
 || Project | Description
 ---|---|---
-<a href='https://gitlab.com/WuerfelDev/uicurses'><img src='https://gitlab.com/uploads/-/system/project/avatar/48893937/Screenshot_2023-08-29_at_14.29.16.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/uicurses'>UICurses</a>|
+<a href='https://gitlab.com/WuerfelDev/uicurses'><img src='https://gitlab.com/uploads/-/system/project/avatar/48893937/Screenshot_2023-08-29_at_14.29.16.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/uicurses'>UICurses</a>|C++ library that makes it easy peasy to create TUI windows
 <a href='https://gitlab.com/WuerfelDev/dotfiles'><img src='https://gitlab.com/uploads/-/system/project/avatar/18529898/logo.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/dotfiles'>dotfiles</a>|Installer & dotfiles
 <a href='https://gitlab.com/WuerfelDev/TouchpadEmulator'><img src='https://gitlab.com/uploads/-/system/project/avatar/46098444/TouchpadEmulator.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/TouchpadEmulator'>TouchpadEmulator</a>|Emulate a touchpad mouse device using a touchscreen on Linux.
 <a href='https://gitlab.com/WuerfelDev/showpdf'><img src='https://gitlab.com/uploads/-/system/project/avatar/16565141/document-pictogram.png' height='48'></a>|<a href='https://gitlab.com/WuerfelDev/showpdf'>showPDF</a>|Chrome extension to show PDFs from studIP instead of force downloading them
